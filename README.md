@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working as a **Developer** at **AmbevTech**.
+- 🔭 Currently working as a **Senior Software Enginner** at **Philips**.
 - 🌍 Based in **Blumenau, Santa Catarina, Brazil**.
 - 📚 Bachelor of Science in Computer Science (**UNESP**).
 - 🌎 Languages: Portuguese (Native), English (C2), Spanish (Elementary).
